@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WebGental BookStore/.vs/WebGental BookStore
+/WebGental BookStore/WebGental BookStore/bin/Debug/net6.0
+/WebGental BookStore/WebGental BookStore/obj
